@@ -8,7 +8,7 @@ permalink: /
 
 Our research group focuses on interactions among plants, microbes and insects, and how they affect carbon cycling under current and future projected climates. To explore these questions, we also study ecological, evolutionary, and biogeographic determinants of species distributions by measuring physiological, morphological, and anatomical functional traits. We explore ecosystem-level consequences of differences in species and trait distributions, for instance, traits of plants, microbes and insects that most affect rates and forms of C release with feedback to the earth system.
 
-We ask these biogeochemical and macroevolutionary questions at the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) in Millbrook, NY and in the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL.
+We ask these biogeochemical and macroevolutionary questions at the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) in Millbrook, NY.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -89,7 +89,6 @@ If you are interested in joining the team please head to our vacancies page for 
 <br /> 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/android-chrome-512x512.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/um logo.jpeg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Carylogo.jpeg" style="width: 120px">
 
