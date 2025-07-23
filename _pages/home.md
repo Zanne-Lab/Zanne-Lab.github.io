@@ -81,7 +81,7 @@ Abbey (5th year PhD student) completed her fieldwork in Queensland, Australia an
 Yuri (3rd year PhD student) is conducting his second fieldwork campaign in the Brazilian Cerrado. Yuri is sampling lots of termites, plants and soils from the ground and air to understand how murundus (earthmounds) alter the ecosystem. He recently passed his qualifying exams and is working on his dissertation proposal and his first chapter on termite surveys from the Cerrado.
 <br />  
 <br />
-Baptiste (Postdoc) is coordinating several global literature compilation and experimental data collection studies on termite mound properties. He’s also rapidly writing up projects on Australian wood decay. He will join Amy and Yuri in Brazil for the New Phytologist plant-fungal invasions meeting and tour the Cerrado. He will be shifting his base back to Australia this summer.
+Baptiste (Postdoc) is based at the University of Queensland in Australia where he is coordinating a continental scale wood decay experiment across Terrestrial Ecosystem Research Network sites. He is also coordinating several global literature compilation and experimental data collection studies on termite mound properties and rapidly writing up projects on Australian wood decay.
 <br />  
 <br />
 If you are interested in joining the team please head to our vacancies page for more information. Thank you to the talented Donna Davis for designing the new Zanne Lab logo!
