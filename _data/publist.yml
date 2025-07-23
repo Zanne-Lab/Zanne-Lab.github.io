@@ -1,3 +1,43 @@
+- title: "Predictability of abrupt shifts in dryland ecosystem functioning"
+  image: Bernardino2025NCC.png
+  description: Climate change and human-induced land degradation threaten dryland ecosystems, vital to one-third of the global population and pivotal to inter-annual global carbon fluxes. Early warning systems are essential for guiding conservation, climate change mitigation and alleviating food insecurity in drylands. Here we show that a machine learning-based approach can predict the probability of abrupt shifts in Sudano–Sahelian dryland vegetation functioning (75.1% accuracy; 76.6% precision) particularly where measures of resilience (temporal autocorrelation) are supplemented with proxies for vegetation and rainfall dynamics and other environmental factors. 
+  authors: Paulo N. Bernardino, Wanda De Keersmaecker, Stéphanie Horion, Stefan Oehmcke, Fabian Gieseke, Rasmus Fensholt, Ruben Van De Kerchove, Stef Lhermitte, Christin Abel, Koenraad Van Meerbeek, Jan Verbesselt, Ben Somers 
+  link: 
+    url: https://doi.org/10.1038/s41558-024-02201-0
+    display:  Nature Climate Change (2025)
+  highlight: 1
+  news2:
+
+- title: "Critical slowing down precedes regime shifts in a Miombo woodland in Zambia"
+  image: Bernardino2025ERL.png
+  description: Climate change and anthropogenic pressures are increasingly driving abrupt regime shifts (RSs) in natural ecosystems, leading to biodiversity loss and disruptions in their functioning. In systems with alternative stable states maintained by feedback mechanisms, such shifts are difficult to reverse due to hysteresis. This study highlights the importance of integrating field and remote sensing data to monitor ecosystem transitions. By identifying resilience loss and RS occurrence, our approach offers valuable insights for conservation and restoration planning, emphasizing the need for adaptive fire management strategies to mitigate degradation and promote ecosystem recovery. 
+  authors: Paulo N. Bernardino, Lori Giagnacovo, Bart Muys, Ben Somers, Sybryn L. Maes
+  link: 
+    url: https://doi.org/10.1088/1748-9326/ade0d9
+    display:  Environmental Research Letters (2025)
+  highlight: 1
+  news2:
+
+- title: "Woody cover and geology as regional-scale determinants of semi-arid savanna stability"
+  image: Vermeulen2025.jpg
+  description: Savannas, defined by a balance of woody and herbaceous vegetation, are vital for global biodiversity and carbon sequestration. Yet, their stability is increasingly at risk due to climate change and human impacts. This research deepens our understanding of savanna stability by clarifying the role of regional drivers, like fire and climate, alongside long-term factors, like soil composition and woody cover.
+  authors: Liezl M. Vermeulen, Koenraad Van Meerbeek, Paulo N. Bernardino, Jasper Slingsby, Bruno Verbist, Ben Somers
+  link: 
+    url: https://doi.org/10.1002/rse2.70005
+    display:  Remote Sensing in Ecology and Conservation (2025)
+  highlight: 1
+  news2:
+
+- title: "Open letter: There are more than just trees and forests to be conserved and restored"
+  image: Pilon2025.JPG
+  description: "Tropical and subtropical grasslands and savannas have historically been neglected in global and local conservation policies. As a result, nearly half of their coverage has been lost. The resulting biodiversity and ecosystem service losses, including the ability to mitigate climate change, are profound and irreversible. As scientists specialized in ecology, conservation, and restoration, from around the world, we call on policymakers at COP 16 to act decisively: Tropical and subtropical grasslands and savannas matter for biodiversity protection, and the future of this planet relies on these ecosystems to the same extent it relies on forests."
+  authors: Natashi Pilon, Franciele Peixoto, Rafael S. Oliveira, Ana Carolina C. Oliveira, Julio Alquéres, (...) Paulo N. Bernardino, (...) Larissa Verona, (...) Amy E. Zanne, Giselda Durigan
+  link: 
+    url: https://doi.org/10.1002/ppp3.10635
+    display:  Plants, People, Planet (2025)
+  highlight: 1
+  news2:
+
 - title: "Decadal recovery of fungal but not termite deadwood decay in tropical rainforest"
   image: wijasJAE2025.jpg
   description: Contrary to common assumptions, fungal communities and their wood decay functions were resilient and recovered relatively quickly within secondary growth rainforests; however, those of termites did not, which could reduce carbon and nutrient cycling in secondary growth rainforests. Active management methods such as the local transplant of termite- and fungi-occupied logs could accelerate the recovery of these ecosystems.
