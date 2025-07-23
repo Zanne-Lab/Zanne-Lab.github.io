@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications, see [Google Scholar](https://scholar.google.com/citations?user=H2fDZJ0AAAAJ&hl=en))
+(For a full list of publications, see our Google Scholar pages: [Amy Zanne](https://scholar.google.com/citations?user=H2fDZJ0AAAAJ&hl=en), [Baptiste Wijas](https://scholar.google.com/citations?user=dNPdbJcAAAAJ&hl=en&oi=ao), [Paulo Bernardino](https://scholar.google.com/citations?user=PBGsFmkAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
