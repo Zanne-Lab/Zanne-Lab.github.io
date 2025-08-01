@@ -1,3 +1,13 @@
+- title: "Pantropical tree rings show small effects of drought on stem growth"
+  image:
+  description: Climate change and human-induced land degradation threaten dryland ecosystems, vital to one-third of the global population and pivotal to inter-annual global carbon fluxes. Early warning systems are essential for guiding conservation, climate change mitigation and alleviating food insecurity in drylands. Here we show that a machine learning-based approach can predict the probability of abrupt shifts in Sudano–Sahelian dryland vegetation functioning (75.1% accuracy; 76.6% precision) particularly where measures of resilience (temporal autocorrelation) are supplemented with proxies for vegetation and rainfall dynamics and other environmental factors. 
+  authors: Pieter A. Zuidema, Peter Gronendijk, (...) Bruna Hornink, (...) Flurin Babst  
+  link: 
+    url: https://doi.org/10.1126/science.adq6607
+    display:  Science (2025)
+  highlight: 1
+  news2:
+
 - title: "Predictability of abrupt shifts in dryland ecosystem functioning"
   image: Bernardino2025NCC.png
   description: Climate change and human-induced land degradation threaten dryland ecosystems, vital to one-third of the global population and pivotal to inter-annual global carbon fluxes. Early warning systems are essential for guiding conservation, climate change mitigation and alleviating food insecurity in drylands. Here we show that a machine learning-based approach can predict the probability of abrupt shifts in Sudano–Sahelian dryland vegetation functioning (75.1% accuracy; 76.6% precision) particularly where measures of resilience (temporal autocorrelation) are supplemented with proxies for vegetation and rainfall dynamics and other environmental factors. 
