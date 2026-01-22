@@ -1,5 +1,25 @@
+- title: "Biomass production of tropical trees across space and time: The shifting roles of diameter growth and wood density"
+  image: Hornink2025b.png
+  description: Understanding the growth mechanisms driving woody biomass production is essential for assessing the short- and long-term contributions to carbon stocks and dynamics in tropical forests. However, estimates of tree biomass production are often based solely on size increment through measurements of stem diameter growth, overlooking the potential spatial and temporal variation in wood density within trees. Here, we examined both long-term (ontogenetic) and short-term (annual) variations in diameter growth and wood density, covering eighteen sites in the Amazon rainforest, Atlantic Forest, Cerrado savanna, and Caatinga dry forest to address two key questions: (1) How does temporal variation in tree diameter growth and wood density affect biomass production? (2) To what extent do these relationships vary along the environmental gradient? We found that diameter growth and wood density drive short- and long-term biomass production dynamics. Interestingly, diameter growth patterns predominantly explained short-term variability in biomass production at all sites, whereas wood density explained ontogenetic biomass patterns mainly at humid sites. These results highlight the importance of accounting for both short- and long-term variation, including climatic and ontogenetic drivers, to increase the accuracy of biomass estimations in tropical trees, particularly in humid forest ecosystems such as the Amazon.
+  authors: Bruna Hornink, Pieter A. Zuidema, Peter van der Sleen, Amy E. Zanne, Gabriel Assis-Pereira, et al.
+  link: 
+    url: https://doi.org/10.1111/1365-2745.70147
+    display:  Journal of Ecology (2025)
+  highlight: 1
+  news2:
+
+- title: "Combining wood traits as a promising timber origin verification and its application in the Brazilian trade chain"
+  image: Hornink2025a.png
+  description: Tracing the geographic origin of wood remains a major challenge in the fight against illegal timber in tropical countries. Methods using anatomical, chemical, isotopic and DNA markers have been successfully tested, but methods are either expensive, unpractical in the field, or time-consuming. By analyzing 17 Neotropical populations of Cedrela spp., we investigated the potential to improve wood provenance identification by combining wood traits measured with field-adaptable equipment. Using machine learning models, we demonstrate that Ca, K, S, Al, wood density, and tree growth rates predict wood origin with over 80 % accuracy at the regional scale and 63 % accuracy at the site level. Climate and soil conditions are the primary drivers of wood traits, particularly Ca, highlighting its value as a “fingerprint.” National and international efforts to build robust reference databases are needed. Our cost-effective and reliable method for tracing wood origins can be a powerful tool to aid law enforcement in fighting illegal timber trade. 
+  authors: Bruna Hornink, Daigard Ricardo Ortega-Rodriguez, Deoclecio J. Amorim, Peter Groenendijk, Kathelyn Paredes-Villanueva, et al.
+  link: 
+    url: https://doi.org/10.1016/j.scitotenv.2025.180710
+    display:  Science of The Total Environment (2025)
+  highlight: 1
+  news2:
+
 - title: "Pantropical tree rings show small effects of drought on stem growth"
-  image:
+  image: Zuidema2025.png
   description: Increasing drought pressure under anthropogenic climate change may jeopardize the potential of tropical forests to capture carbon in woody biomass and act as a long-term carbon dioxide sink. To evaluate this risk, we assessed drought impacts in 483 tree-ring chronologies from across the tropics and found an overall modest stem growth decline (2.5% with a 95% confidence interval of 2.2 to 2.7%) during the 10% driest years since 1930. Stem growth declines exceeded 10% in 25% of cases and were larger at hotter and drier sites and for gymnosperms compared with angiosperms. Growth declines generally did not outlast drought years and were partially mitigated by growth stimulation in wet years. Thus, pantropical forest carbon sequestration through stem growth has hitherto shown drought resilience that may, however, diminish under future climate change. 
   authors: Pieter A. Zuidema, Peter Gronendijk, (...) Bruna Hornink, (...) Flurin Babst  
   link: 
